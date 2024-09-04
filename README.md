@@ -70,7 +70,7 @@ Windam est une plateforme de chat qui permet aux utilisateurs de communiquer ave
 
 ## 📫 Me contacter
 
-- 📧 Email : [lamottelymouhamed@gmail.com](mailto:mouhamedlamotte.dev@gmail.com)
+- 📧 Email : [mouhamedlamotte.dev@gmail.com](mailto:mouhamedlamotte.dev@gmail.com)
 - 💼 LinkedIn : [Mouhamed lamotte](https://www.linkedin.com/in/mouhamedlamotte)
 - 🐦 Twitter : [Mouhamed Lamotte](https://twitter.com/mouhamedlamotte)
 

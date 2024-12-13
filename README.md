@@ -61,8 +61,9 @@ Windam est une plateforme de chat qui permet aux utilisateurs de communiquer ave
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=mouhamedlamotte&show_icons=true&theme=radical)
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamedlamotte&layout=compact&theme=radical)
+![mouhamedlamotte's Stats](https://github-readme-stats.vercel.app/api?username=mouhamedlamotte&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![mouhamedlamotte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamedlamotte&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ![mouhamedlamotte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouhamedlamotte&theme=dracula&hide_border=true)
 

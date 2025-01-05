@@ -6,7 +6,7 @@
 
 Passionné par les données, le développement web et l’IA. J’aime construire des choses utiles pour la communauté.
 
-- 🌱 Actuellement aspirant au développement de données à la Sonatel Academy
+
 - 💬 Technologies : Django, Next.js, Firebase, Tailwind CSS
 - 🎓 Éducation : Orange Digital Center, Université Cheikh Anta Diop, Lycée de PETE
 - 📫 Contactez-moi pour des collaborations professionnelles ou des projets passionnants dans le domaine des données

@@ -1,4 +1,4 @@
-# 👋 Mouhamed Baba Lamotte → Just the guy behind the chaos
+# Mouhamed Baba Lamotte → The guy behind the chaos
 
 I build stuff that looks smart until you read the code
 

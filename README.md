@@ -1,6 +1,6 @@
-# 👋 Hey, Moi c'est Mouhamed baba Lamotte 
+# 👋 Mouhamed Baba Lamotte → Just the guy behind the chaos
 
-Passionné par les données, le développement web et l’IA. J’aime construire des choses utiles pour la communauté.
+I build stuff that looks smart until you read the code
 
 ![mouhamedlamotte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouhamedlamotte&theme=dracula&hide_border=true)
 
